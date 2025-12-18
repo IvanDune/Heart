@@ -8,77 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "398459d8630de879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12. Противники/12.2 Архив существ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.2 Архив существ"
-            }
-          },
-          {
             "id": "1af50ad0dbf58827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Классы/4.9 Ведьма.md",
+                "file": "4. Классы/4.6 Инкарнадин.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.9 Ведьма"
+              "title": "4.6 Инкарнадин"
             }
           },
           {
-            "id": "1d0893fb8e9f5506",
+            "id": "23f74bf3d2520a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Правила в деталях/5.2 Лечение.md",
+                "file": "6. Последствия/6.3 Серьёзные последствия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Лечение"
+              "title": "6.3 Серьёзные последствия"
             }
           },
           {
-            "id": "fc5611e15eb9b9d3",
+            "id": "da123a006abf32cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Ресурсы и снаряжение/7.4 Метки.md",
+                "file": "3. Персонажи/3.3 Призвание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Метки"
-            }
-          },
-          {
-            "id": "0f2fb06f71dc06d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Мир Сердца/10.1 О мире.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.1 О мире"
+              "title": "3.3 Призвание"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Последствия/Последствия.md",
+                "file": "Дополнительно от DiceHead/Последствия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,18 +169,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Последствия/Последствия.md"
+                "file": "Дополнительно от DiceHead/Последствия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Структура Последствия"
             }
+          },
+          {
+            "id": "5b33d5a58268dba3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,37 +204,39 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1af50ad0dbf58827",
+  "active": "da123a006abf32cc",
   "lastOpenFiles": [
-    "4. Классы/4.8 Вермиссианский Рыцарь.md",
-    "4. Классы/4.7 Мусорный Маг.md",
     "4. Классы/4.6 Инкарнадин.md",
-    "4. Классы/4.5 Ищейка.md",
+    "3. Персонажи/3.3 Призвание.md",
+    "4. Классы/4.7 Мусорный Маг.md",
+    "Дополнительно от DiceHead/Персонажи.md",
+    "6. Последствия/6.3 Серьёзные последствия.md",
+    "Дополнительно от DiceHead/Последствия.md",
+    "6. Последствия/6.4 Критические последствия.md",
+    "Без названия.base",
+    "6. Последствия/6.2 Лёгкие последствия.md",
+    "4. Классы/4.8 Вермиссианский Рыцарь.md",
     "4. Классы/4.4 Еретик.md",
+    "4. Классы/4.1 Потрошитель.md",
+    "Дополнительно от DiceHead",
+    "6. Последствия/6.1 Последствия.md",
+    "4. Классы/4.9 Ведьма.md",
+    "4. Классы/4.5 Ищейка.md",
     "4. Классы/4.3 Пчеловод Бездны.md",
     "4. Классы/4.2 Мёртвый ходок.md",
-    "4. Классы/4.1 Потрошитель.md",
-    "6. Последствия/6.2 Лёгкие последствия.md",
-    "6. Последствия/6.3 Серьёзные последствия.md",
     "8. Правила в деталях (продолжение)/8.2 Исследование.md",
     "12. Противники/12.2 Архив существ.md",
     "10. Мир Сердца/10.1 О мире.md",
     "7. Ресурсы и снаряжение/7.4 Метки.md",
     "5. Правила в деталях/5.2 Лечение.md",
     "11. Ориентиры/11.9 Восемь Небес (подвид разломов).md",
-    "3. Персонажи/3.3 Призвание.md",
     "7. Ресурсы и снаряжение/7.2 Снаряжение.md",
     "9. Проведение игр/9.2 Конкретные советы по ведению Сердца.md",
     "conflict-files-obsidian-git.md",
-    "11. Ориентиры/11.2 Подробнее об ориентирах.md",
-    "7. Ресурсы и снаряжение/7.1 Ресурсы.md",
-    "12. Противники/12.3 Архив легенд.md",
-    "11. Ориентиры/11.4 Глубина 1.md",
-    "11. Ориентиры/11.5 Глубина 2.md",
-    "11. Ориентиры/11.1 Вводная.md",
     "Враги",
     "Ориентиры/Тир 2",
     "Ориентиры/Бродяги",
@@ -257,8 +244,6 @@
     "Ориентиры/Тир 0",
     "Ресурсы и экипировка",
     "Ориентиры",
-    "Зов",
-    "Последствия/Без названия",
-    "Последствия/Критические"
+    "Зов"
   ]
 }
