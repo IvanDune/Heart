@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Классы/4.6 Инкарнадин.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.6 Инкарнадин"
-            }
-          },
-          {
-            "id": "23f74bf3d2520a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Последствия/6.3 Серьёзные последствия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.3 Серьёзные последствия"
-            }
-          },
-          {
-            "id": "da123a006abf32cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "3. Персонажи/3.3 Призвание.md",
                 "mode": "source",
                 "source": false
@@ -48,9 +20,65 @@
               "icon": "lucide-file",
               "title": "3.3 Призвание"
             }
+          },
+          {
+            "id": "c3834b29485b79eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Классы/4.1 Потрошитель.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Потрошитель"
+            }
+          },
+          {
+            "id": "f2a870cbcab08066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дополнительно от DiceHead/Ways and Means/Классы/4. Бард.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Бард"
+            }
+          },
+          {
+            "id": "76ece652a0591e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Ориентиры/11.4 Глубина 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.4 Глубина 1"
+            }
+          },
+          {
+            "id": "db75e7ee4ca3294a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Последствия/6.2 Лёгкие последствия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 Лёгкие последствия"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -82,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "лечени",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,42 +239,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da123a006abf32cc",
+  "active": "db75e7ee4ca3294a",
   "lastOpenFiles": [
-    "4. Классы/4.6 Инкарнадин.md",
-    "3. Персонажи/3.3 Призвание.md",
-    "4. Классы/4.7 Мусорный Маг.md",
-    "Дополнительно от DiceHead/Персонажи.md",
     "6. Последствия/6.3 Серьёзные последствия.md",
-    "Дополнительно от DiceHead/Последствия.md",
-    "6. Последствия/6.4 Критические последствия.md",
-    "Без названия.base",
     "6. Последствия/6.2 Лёгкие последствия.md",
-    "4. Классы/4.8 Вермиссианский Рыцарь.md",
-    "4. Классы/4.4 Еретик.md",
-    "4. Классы/4.1 Потрошитель.md",
-    "Дополнительно от DiceHead",
     "6. Последствия/6.1 Последствия.md",
-    "4. Классы/4.9 Ведьма.md",
-    "4. Классы/4.5 Ищейка.md",
-    "4. Классы/4.3 Пчеловод Бездны.md",
-    "4. Классы/4.2 Мёртвый ходок.md",
-    "8. Правила в деталях (продолжение)/8.2 Исследование.md",
-    "12. Противники/12.2 Архив существ.md",
-    "10. Мир Сердца/10.1 О мире.md",
+    "11. Ориентиры/11.4 Глубина 1.md",
+    "11. Ориентиры/11.3 Глубина 0.md",
+    "Дополнительно от DiceHead/Ways and Means/Классы/4. Бард.md",
+    "Дополнительно от DiceHead/Ways and Means/Классы/1. Чумной подкидыш.md",
     "7. Ресурсы и снаряжение/7.4 Метки.md",
-    "5. Правила в деталях/5.2 Лечение.md",
-    "11. Ориентиры/11.9 Восемь Небес (подвид разломов).md",
-    "7. Ресурсы и снаряжение/7.2 Снаряжение.md",
-    "9. Проведение игр/9.2 Конкретные советы по ведению Сердца.md",
-    "conflict-files-obsidian-git.md",
+    "Дополнительно от DiceHead/Ways and Means/Призвания.md",
+    "3. Персонажи/3.3 Призвание.md",
+    "4. Классы/4.1 Потрошитель.md",
+    "3. Персонажи/3.2 Народы.md",
+    "Дополнительно от DiceHead/Ways and Means/Классы/3. Улиточный Пиллигрим.md",
+    "Дополнительно от DiceHead/Ways and Means/Классы/2. Ползун.md",
+    "Дополнительно от DiceHead/Ways and Means/Классы",
+    "Дополнительно от DiceHead/Дверь в Иномирье/3. Фракции.md",
+    "Дополнительно от DiceHead/Ways and Means",
+    "10. Мир Сердца/10.2 География Сердца.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/4. Теория измерений.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/5. Задачи и малые способности.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/2. Ориентиры в Иномирье.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/7. Таблицы.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/Товары.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/6. Проведение игры в Иномирье.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/1. Жизнь в городе Иномирья.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье/0. Вступление.md",
+    "12. Противники/12.2 Архив существ.md",
+    "Дополнительно от DiceHead/Дверь в Иномирье",
+    "11. Ориентиры/11.8 Разломы.md",
+    "Без названия.base",
+    "Дополнительно от DiceHead",
     "Враги",
     "Ориентиры/Тир 2",
     "Ориентиры/Бродяги",
     "Ориентиры/Тир 1",
-    "Ориентиры/Тир 0",
-    "Ресурсы и экипировка",
-    "Ориентиры",
-    "Зов"
+    "Ориентиры/Тир 0"
   ]
 }
